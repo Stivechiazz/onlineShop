@@ -31,6 +31,7 @@
 
 // loop through the above array
 
+import {cart} from '../data/cart.js';
 
 let productsHTML = '';
 
