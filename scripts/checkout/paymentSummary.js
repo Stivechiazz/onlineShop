@@ -43,7 +43,7 @@ export function renderPaymentSummary(){
 
           <div class="payment-summary-row">
             <div>Estimated tax (10%):</div>
-            <div class="payment-summary-money">$4.77
+            <div class="payment-summary-money">
              $${formatCurrency(taxCents)}</div>
           </div>
 
